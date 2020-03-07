@@ -6,7 +6,7 @@
 </template>
 
 <script>
-
+import {getHome} from "network/home"
 export default {
   name: 'Home',
   components: {
